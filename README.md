@@ -1,5 +1,5 @@
 # lampara-led-rgb
-materiales:
+# materiales:
 
 tira de led ws2812b (numero de pixeles variable)
 - 1 potenciometro
