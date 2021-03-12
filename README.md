@@ -1,10 +1,11 @@
 # lampara-led-rgb
 materiales:
+
 tira de led ws2812b (numero de pixeles variable)
-1 potenciometro
-1 boton
-1 arduino nano
-1 transformador 5v con + al centro y aprox 1A por metro de tira
+- 1 potenciometro
+- 1 boton
+- 1 arduino nano
+- 1 transformador 5v con + al centro y aprox 1A por metro de tira
 
 funcionamiento:
 
