@@ -19,6 +19,6 @@ cuando se presiona el boton, se pasa al siguiente estado:
 
 # montaje:
 yo monté casi 2 mts de tira de led en un listón de madera y eso lo atornillé a la pared de detrás de mi cama. da muy buena luz para leer.
-
+![esquemático](https://user-images.githubusercontent.com/74024248/111005625-73b70880-838b-11eb-9542-4cbcb20eab4e.png)
 ![lampara-led-rgb-1](https://user-images.githubusercontent.com/74024248/111000442-5b8ebb80-8382-11eb-9821-faa2197d5fc5.png)
 ![lampara-led-rgb-2](https://user-images.githubusercontent.com/74024248/111000431-57629e00-8382-11eb-9071-0bcce20c2007.png)
